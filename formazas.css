@@ -1,0 +1,32 @@
+*{box-sizing: border-box;}
+
+img{
+    width:100%
+}
+
+header{
+    background-color: rgb(12, 117, 187);
+    text-align: center;
+    color: white;
+    
+}
+
+aside{
+    background-color: rgb(12, 117, 187);
+}
+
+footer{
+    background-color: rgb(12, 117, 187);
+    text-align: center;
+    color: white;
+}
+
+nav{
+    background-color: rgb(8, 65, 187);
+    grid: auto;
+    color: rgb(197, 166, 126);
+    text-decoration: none;
+}
+
+
+
